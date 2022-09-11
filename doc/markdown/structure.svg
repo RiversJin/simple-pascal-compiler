@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 structure.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="13.7993in" height="7.74852in"
+		viewBox="0 0 993.547 557.894" xml:space="preserve" color-interpolation-filters="sRGB" class="st18">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#4672c4;stroke:#c7c8c8;stroke-width:0.25}
+		.st2 {fill:none;stroke:none;stroke-width:0.25}
+		.st3 {fill:#4672c4;font-family:微软雅黑 Light;font-size:3em}
+		.st4 {font-size:0.5em}
+		.st5 {fill:#4672c4;font-family:微软雅黑 Light;font-size:1.99999em}
+		.st6 {font-size:1em}
+		.st7 {font-size:0.750003em}
+		.st8 {fill:#feffff;font-family:微软雅黑 Light;font-size:3em}
+		.st9 {fill:#3c63ac;stroke:#30518f;stroke-width:3.75}
+		.st10 {fill:#feffff;font-family:微软雅黑 Light;font-size:1.99999em}
+		.st11 {fill:#feffff;font-family:微软雅黑 Light;font-size:2.50001em}
+		.st12 {fill:#3c63ac;stroke:#30518f;stroke-width:0.75}
+		.st13 {fill:#feffff;font-family:微软雅黑 Light;font-size:1.16666em}
+		.st14 {fill:#feffff;font-family:微软雅黑 Light;font-size:1.5em}
+		.st15 {fill:#feffff;font-family:微软雅黑 Light;font-size:1.16666em;font-weight:bold}
+		.st16 {fill:#304e85;stroke:#c7c8c8;stroke-width:0.25}
+		.st17 {fill:#4672c4;font-family:微软雅黑 Light;font-size:1.5em;font-weight:bold}
+		.st18 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group9-1" transform="translate(438.132,-18.25)" v:mID="9" v:groupContext="group">
+			<title>工作表.9</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape">
+				<title>框架</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 557.89 L178.58 557.89 L178.58 423.96 L0 423.96 L0 557.89 ZM8.5 549.39 L170.08 549.39 L170.08 432.46 L8.5
+							 432.46 L8.5 549.39 Z" class="st1"/>
+			</g>
+			<g id="shape5-4" v:mID="5" v:groupContext="shape" transform="translate(13.2913,-56.9685)">
+				<title>工作表.5</title>
+				<desc>AST定义 (src/ast/)</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="76" cy="547.894" width="152" height="20"/>
+				<rect x="0" y="537.894" width="152" height="20" class="st2"/>
+				<text x="8.17" y="537.09" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>AST定义<v:newlineChar/><tspan
+							x="40.63" dy="2.4em" class="st4">(src/ast/)</tspan></text>			</g>
+		</g>
+		<g id="group10-8" transform="translate(796.715,-20.8681)" v:mID="10" v:groupContext="group">
+			<title>工作表.10</title>
+			<g id="shape11-9" v:mID="11" v:groupContext="shape">
+				<title>框架</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 557.89 L178.58 557.89 L178.58 423.96 L0 423.96 L0 557.89 ZM8.5 549.39 L170.08 549.39 L170.08 432.46 L8.5
+							 432.46 L8.5 549.39 Z" class="st1"/>
+			</g>
+			<g id="shape12-11" v:mID="12" v:groupContext="shape" transform="translate(13.2913,-56.9685)">
+				<title>工作表.12</title>
+				<desc>代码生成 及符号表 (src/codegen/)</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="76" cy="547.894" width="152" height="20"/>
+				<rect x="0" y="537.894" width="152" height="20" class="st2"/>
+				<text x="28" y="519.09" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>代码生成<v:newlineChar/><tspan
+							x="28" dy="1.2em" class="st6">及符号表<v:newlineChar/></tspan><tspan x="16.42" dy="2.2em" class="st7">(src/codegen/)</tspan></text>			</g>
+		</g>
+		<g id="shape13-16" v:mID="13" v:groupContext="shape" transform="translate(18.25,-248.378)">
+			<title>矩形</title>
+			<desc>语法定义parser.y</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="116.575" cy="510.246" width="233.15" height="95.2953"/>
+			<rect x="0" y="462.598" width="233.15" height="95.2953" class="st1"/>
+			<text x="44.57" y="499.45" class="st8" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>语法定义<tspan x="52.76"
+						dy="1.2em" class="st6">parser.y</tspan></text>		</g>
+		<g id="shape14-20" v:mID="14" v:groupContext="shape" transform="translate(381.439,819.762) rotate(180)">
+			<title>普通箭头</title>
+			<desc>Bison</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="65.0197" cy="557.894" width="130.04" height="0" transform="rotate(180)"/>
+			<path d="M0 557.89 L11.34 546.56 L11.34 552.22 L130.04 552.22 L130.04 557.89 L130.04 563.56 L11.34 563.56 L11.34 569.23
+						 L0 557.89 Z" class="st9"/>
+			<text x="-93.97" y="-550.69" transform="rotate(180)" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Bison</text>		</g>
+		<g id="shape15-23" v:mID="15" v:groupContext="shape" transform="translate(381.439,-237.226)">
+			<title>矩形.15</title>
+			<desc>语法分析 y.tab.cpp y.tab.h</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="143.858" cy="499.095" width="287.72" height="117.598"/>
+			<rect x="0" y="440.295" width="287.717" height="117.598" class="st1"/>
+			<text x="83.86" y="472.09" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>语法分析<v:newlineChar/><tspan
+						x="82.09" dy="1.2em" class="st6" v:langID="1033">y.tab.cpp<v:newlineChar/></tspan><tspan x="98.76"
+						dy="1.2em" class="st6" v:langID="1033">y.tab.</tspan>h</text>		</g>
+		<g id="shape18-28" v:mID="18" v:groupContext="shape" transform="translate(18.25,-433.197)">
+			<title>矩形.18</title>
+			<desc>词法定义 scan.l</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="116.575" cy="510.246" width="233.15" height="95.2953"/>
+			<rect x="0" y="462.598" width="233.15" height="95.2953" class="st1"/>
+			<text x="56.57" y="501.25" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>词法定义<v:newlineChar/><tspan
+						x="79.49" dy="1.2em" class="st6">scan.l</tspan></text>		</g>
+		<g id="shape19-32" v:mID="19" v:groupContext="shape" transform="translate(381.439,634.943) rotate(180)">
+			<title>普通箭头.19</title>
+			<desc>Flex</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="65.0197" cy="557.894" width="130.04" height="0" transform="rotate(180)"/>
+			<path d="M0 557.89 L11.34 546.56 L11.34 552.22 L130.04 552.22 L130.04 557.89 L130.04 563.56 L11.34 563.56 L11.34 569.23
+						 L0 557.89 Z" class="st9"/>
+			<text x="-85.7" y="-550.69" transform="rotate(180)" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Flex</text>		</g>
+		<g id="shape20-35" v:mID="20" v:groupContext="shape" transform="translate(381.439,-422.045)">
+			<title>矩形.20</title>
+			<desc>词法分析 lex.yy.cpp</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="143.858" cy="499.095" width="287.72" height="117.598"/>
+			<rect x="0" y="440.295" width="287.717" height="117.598" class="st1"/>
+			<text x="83.86" y="490.09" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>词法分析<v:newlineChar/><tspan
+						x="78.32" dy="1.2em" class="st6" v:langID="1033">lex.yy.cpp</tspan></text>		</g>
+		<g id="shape21-39" v:mID="21" v:groupContext="shape" transform="translate(-32.5965,203.069) rotate(-90)">
+			<title>普通箭头.21</title>
+			<desc>引用</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.6102" cy="557.894" width="67.23" height="0" transform="rotate(360)"/>
+			<path d="M0 557.89 L11.34 542.3 L11.34 550.1 L67.22 550.1 L67.22 557.89 L67.22 565.69 L11.34 565.69 L11.34 573.48 L0
+						 557.89 Z" class="st12"/>
+			<text x="19.61" y="562.09" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>引用</text>		</g>
+		<g id="shape22-42" v:mID="22" v:groupContext="shape" transform="translate(1083.02,306.724) rotate(88.5679)">
+			<title>普通箭头.22</title>
+			<desc>引用</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.533" cy="557.894" width="85.07" height="0" transform="rotate(180)"/>
+			<path d="M0 557.89 L11.34 538.08 L11.34 547.99 L85.07 547.99 L85.07 557.89 L85.07 567.8 L11.34 567.8 L11.34 577.71 L0
+						 557.89 Z" class="st12"/>
+			<text x="-60.53" y="-552.49" transform="rotate(180)" class="st14" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>引用</text>		</g>
+		<g id="shape23-45" v:mID="23" v:groupContext="shape" transform="translate(608.601,-85.1595) rotate(-0.833311)">
+			<title>普通箭头.23</title>
+			<desc>实现代码生成的虚函数</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90.0095" cy="557.894" width="180.02" height="0" transform="rotate(360)"/>
+			<path d="M0 557.89 L14.44 532.11 L14.44 545 L180.02 545 L180.02 557.89 L180.02 570.79 L14.44 570.79 L14.44 583.68 L0
+						 557.89 Z" class="st12"/>
+			<text x="19.98" y="562.09" class="st15" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>实现代码生成的虚函数</text>		</g>
+		<g id="shape24-48" v:mID="24" v:groupContext="shape" transform="translate(801.439,-253.506)">
+			<title>矩形.24</title>
+			<desc>程序入口 Main.cpp</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="515.374" width="113.39" height="85.0394"/>
+			<rect x="0" y="472.854" width="113.386" height="85.0394" class="st1"/>
+			<text x="8.69" y="508.17" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>程序入口<v:newlineChar/><tspan
+						x="6.75" dy="1.2em" class="st6">Main.cpp</tspan></text>		</g>
+		<g id="group29-52" transform="translate(1170.36,162.4) rotate(90)" v:mID="29" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="ArcHeight" v:prompt="" v:val="VT0(0.88582677165354):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArcHeight" v:prompt="" v:val="VT0(2.7668416730444):24"/>
+			</v:userDefs>
+			<title>左弧形箭头</title>
+			<g id="shape30-53" v:mID="30" v:groupContext="shape">
+				<title>工作表.30</title>
+				<v:userDefs>
+					<v:ud v:nameU="BarWidth" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="ArrowTipY" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="ArcHeight" v:prompt="" v:val="VT0(0.88582677165354):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(1)"/>
+					<v:ud v:nameU="ArcHeight" v:prompt="" v:val="VT0(2.7668416730444):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#3d64ac)"/>
+				</v:userDefs>
+				<path d="M55.12 337.42 L55.12 351.59 A55.11 99.5916 -180 0 0 -0 451.2 L0 437.03 A55.11 99.5916 0 0 1 55.12 337.42
+							 Z" class="st16"/>
+			</g>
+			<g id="shape29-55" v:mID="29" v:groupContext="groupContent">
+				<path d="M55.12 543.72 L40.94 529.55 L40.94 536.63 A40.9388 99.5916 0 0 1 -0 437.03 L0 451.2 A40.9388 99.5916 -180
+							 0 0 40.94 550.81 L40.94 557.89 L55.12 543.72 Z" class="st12"/>
+			</g>
+		</g>
+		<g id="shape31-57" v:mID="31" v:groupContext="shape" transform="translate(648.998,-399.823)">
+			<title>工作表.31</title>
+			<desc>调用语法分析</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.7008" cy="548.947" width="147.41" height="17.8934"/>
+			<rect x="0" y="540" width="147.402" height="17.8934" class="st2"/>
+			<text x="19.67" y="554.35" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>调用语法分析</text>		</g>
+		<g id="group36-60" transform="translate(269.687,396.258) rotate(-90)" v:mID="36" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="ArcHeight" v:prompt="" v:val="VT0(0.88582677165354):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArcHeight" v:prompt="" v:val="VT0(2.7668416730444):24"/>
+			</v:userDefs>
+			<title>左弧形箭头.36</title>
+			<g id="shape37-61" v:mID="37" v:groupContext="shape">
+				<title>工作表.37</title>
+				<v:userDefs>
+					<v:ud v:nameU="BarWidth" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="ArrowTipY" v:prompt="" v:val="VT0(0.19685039370079):24"/>
+					<v:ud v:nameU="ArcHeight" v:prompt="" v:val="VT0(0.88582677165354):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(1)"/>
+					<v:ud v:nameU="ArcHeight" v:prompt="" v:val="VT0(2.7668416730444):24"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#3d64ac)"/>
+				</v:userDefs>
+				<path d="M85.04 337.42 L85.04 351.59 A85.0268 99.5916 -180 0 0 0 451.2 L0 437.03 A85.0268 99.5916 0 0 1 85.04 337.42
+							 Z" class="st16"/>
+			</g>
+			<g id="shape36-63" v:mID="36" v:groupContext="groupContent">
+				<path d="M85.04 543.72 L70.87 529.55 L70.87 536.63 A70.8557 99.5916 0 0 1 -0 437.03 L0 451.2 A70.8557 99.5916 -180
+							 0 0 70.87 550.81 L70.87 557.89 L85.04 543.72 Z" class="st12"/>
+			</g>
+		</g>
+		<g id="shape38-65" v:mID="38" v:groupContext="shape" transform="translate(643.644,-136.912)">
+			<title>工作表.38</title>
+			<desc>返回语法分析得到的AST树</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.7008" cy="548.947" width="147.41" height="17.8934"/>
+			<rect x="0" y="540" width="147.402" height="17.8934" class="st2"/>
+			<text x="10.67" y="543.55" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>返回语法分析得<tspan
+						x="30.76" dy="1.2em" class="st6">到的</tspan>AST树</text>		</g>
+	</g>
+</svg>

@@ -1,0 +1,7 @@
+#ifndef NAIVE_PASCAL_COMPILER_AST_HPP
+#define NAIVE_PASCAL_COMPILER_AST_HPP
+
+#include "ast/ast_base.h"
+
+
+#endif //NAIVE_PASCAL_COMPILER_AST_HPP
